@@ -9,6 +9,7 @@
 | Ilya Sutskever | 2030 |
 | Yann LeCun | Years away |
 | Geoffrey Hinton | 2043 |
+| Gary Marcus | 2028 |
 
 ## Is it important ? ##
 There is a risk that the humans as a species disappear.
@@ -18,4 +19,3 @@ Understand that the future of our children is at stake.
 We cannot let the Gods of Capitalism decide.
 
 ## Where are the decisions being made ##
-AGI-26 Conference : San Francisco from July 27–30, 2026
