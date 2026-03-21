@@ -1,4 +1,4 @@
-## AGI Final Countdown ##
+# AGI Final Countdown #
 
 | Who | When |
 | ----------- | ----------- |
@@ -10,4 +10,9 @@
 | Yann LeCun | Years away |
 | Geoffrey Hinton | 2043 |
 
+## Is it important ? ##
+There is a risk that the humans as a species disappear.
 
+## What can we do ? ##
+Understand that the future of our children is at stake.
+We cannot let the Gods of capitalism decide.
