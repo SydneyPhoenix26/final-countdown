@@ -10,6 +10,10 @@
 | Yann LeCun | Years away |
 | Geoffrey Hinton | 2043 |
 | Gary Marcus | 2028 |
+| AIMultiple (AGI emergence estimate) | 2040-2050 | (Source: AIMultiple) |
+| DeepMind Chief AGI Scientist | 2028 (50% chance minimal AGI) | (Source: Reddit) |
+| AI 2027 Report | 2030 | (Source: AI Digest) |
+| AI Progress Metric | April 23, 2025 (>80% on FrontierMath) | (Source: AI Digest) |
 
 ## Is it important ? ##
 There is a risk that the humans as a species disappear.
