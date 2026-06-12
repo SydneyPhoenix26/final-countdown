@@ -14,6 +14,7 @@
 | DeepMind Chief AGI Scientist | 2028 (50% chance minimal AGI) | (Source: Reddit) |
 | AI 2027 Report | 2030 | (Source: AI Digest) |
 | AI Progress Metric | April 23, 2025 (>80% on FrontierMath) | (Source: AI Digest) |
+| Demis Hassabis | 2028-2029 | (Source: Sherwood News) |
 
 ## Is it important ? ##
 There is a risk that the humans as a species disappear.
