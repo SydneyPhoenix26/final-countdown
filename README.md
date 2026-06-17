@@ -15,6 +15,16 @@
 | AI 2027 Report | 2030 | (Source: AI Digest) |
 | AI Progress Metric | April 23, 2025 (>80% on FrontierMath) | (Source: AI Digest) |
 | Demis Hassabis | 2028-2029 | (Source: Sherwood News) |
+| Masayoshi Son | 2028 | (Source: AIMultiple) |
+| Jensen Huang | 2029 | (Source: AIMultiple) |
+| Ben Goertzel | 2029 | (Source: AIMultiple) |
+| Eric Schmidt | 2029 | (Source: AIMultiple) |
+| Sergey Brin | 2030 | (Source: AIMultiple) |
+| Sundar Pichai | 2031 | (Source: AIMultiple) |
+| Andrej Karpathy | 2035 | (Source: AIMultiple) |
+| Ajeya Cotra | 2040 | (Source: AIMultiple) |
+| Jürgen Schmidhuber | 2050 | (Source: AIMultiple) |
+| AI 2027 Report (revised) | 2029-2032 | (Source: Observer) |
 
 ## Is it important ? ##
 There is a risk that the humans as a species disappear.
