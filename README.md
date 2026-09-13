@@ -25,6 +25,11 @@
 | Ajeya Cotra | 2040 | (Source: AIMultiple) |
 | Jürgen Schmidhuber | 2050 | (Source: AIMultiple) |
 | AI 2027 Report (revised) | 2029-2032 | (Source: Observer) |
+| Samotsvety Forecasting | 2026-2041 (10% by 2026, 50% by 2041) | (Source: AIMultiple, Jan 2026) |
+| Kalshi Prediction Market | 2030 (45% OpenAI AGI) | (Source: AIMultiple, Aug 2026) |
+| Polymarket | 2027 (9% OpenAI AGI) | (Source: AIMultiple, Aug 2026) |
+| Metaculus | 2028-2033 (Weak AGI 2028, Turing Test 2029, Full AGI 2033) | (Source: AIMultiple, Aug 2026) |
+| Manifold | 2034 (Adversarial Turing Test) | (Source: AIMultiple, Aug 2026) |
 
 ## Is it important ? ##
 There is a risk that the humans as a species disappear.
