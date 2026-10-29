@@ -35,6 +35,9 @@
 | Eli Lifland                                | 2032                                                     | FutureSearch, Aug 2026     |
 | Ben Goertzel (AGI-26 update)               | mid-2027                                                 | IBM Think, Aug 2026        |
 | Ray Kurzweil (2026 revised)                | 2032                                                     | AIMultiple, Sep 2026       |
+| Sam Altman (TIME interview, Aug 2026)      | 2026 (internal system by year-end, self-assessed)        | TIME via Fello AI, Aug 2026 |
+| Daniel Kokotajlo (AI Futures Project update)| Nov 2028 (median, revised earlier)                       | ETC Journal, Oct 2026      |
+| Brendan Halstead (AI Futures Project)      | 2031 (median)                                            | ETC Journal, Oct 2026      |
 
 ## Is it important ##
 There is a risk that the humans as a species disappear.
