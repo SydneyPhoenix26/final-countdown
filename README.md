@@ -38,6 +38,8 @@
 | Sam Altman (TIME interview, Aug 2026)      | 2026 (internal system by year-end, self-assessed)        | TIME via Fello AI, Aug 2026 |
 | Daniel Kokotajlo (AI Futures Project update)| Nov 2028 (median, revised earlier)                       | ETC Journal, Oct 2026      |
 | Brendan Halstead (AI Futures Project)      | 2031 (median)                                            | ETC Journal, Oct 2026      |
+| Nathan Benaich (State of AI Report 2026)   | 2027                                                     | State of AI Report, Oct 2026 |
+| Demis Hassabis (WSJ interview, Oct 2026)   | 2027-2029 (2-3 years, "nearer and nearer")               | WSJ via Mint, Oct 2026     |
 
 ## Is it important ##
 There is a risk that the humans as a species disappear.
