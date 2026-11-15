@@ -40,6 +40,11 @@
 | Brendan Halstead (AI Futures Project)      | 2031 (median)                                            | ETC Journal, Oct 2026      |
 | Nathan Benaich (State of AI Report 2026)   | 2027                                                     | State of AI Report, Oct 2026 |
 | Demis Hassabis (WSJ interview, Oct 2026)   | 2027-2029 (2-3 years, "nearer and nearer")               | WSJ via Mint, Oct 2026     |
+| Daniel Kokotajlo (Q3.5 update, Nov 2026)   | 2027 (Superhuman AI Researcher, May-Nov 2027)            | AIFP blog, Nov 2026        |
+| Eli Lifland (Q3.5 update, Nov 2026)        | 2027 (Superhuman AI Researcher)                          | AIFP blog, Nov 2026        |
+| Brendan Halstead (Q3.5 update, Nov 2026)   | 2027 (Superhuman AI Researcher)                          | AIFP blog, Nov 2026        |
+| AI Futures Project (office work, Nov 2026) | 2028 (35-65% of white-collar work automated)             | Forbes, Nov 2026           |
+| Kalshi Prediction Market (Nov 2026)        | 2028-2030 (46.5% by 2028, 71% by 2030)                   | NEXTPredict, Nov 2026      |
 
 ## Is it important ##
 There is a risk that the humans as a species disappear.
