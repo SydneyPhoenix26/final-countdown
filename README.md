@@ -2,7 +2,6 @@
 
 | Who                                        | When                                                     | Source                     |
 | ------------------------------------------ | -------------------------------------------------------- | -------------------------- |
-| AI Progress Metric                         | April 23, 2025 (>80% on FrontierMath)                    | AI Digest                  |
 | Elon Musk                                  | 2026                                                     |                            |
 | Samotsvety Forecasting                     | 2026-2041 (10% by 2026, 50% by 2041)                    | AIMultiple, Jan 2026       |
 | Sam Altman (TIME interview, Aug 2026)      | 2026 (internal system by year-end, self-assessed)        | TIME via Fello AI, Aug 2026 |
@@ -45,6 +44,7 @@
 | Geoffrey Hinton                            | 2043                                                     |                            |
 | Jürgen Schmidhuber                         | 2050                                                     | AIMultiple                 |
 | Yann LeCun                                 | Years away                                               |                            |
+| AI Progress Metric                         | April 23, 2025 (>80% on FrontierMath)                    | AI Digest                  |
 
 ## Is it important ##
 There is a risk that the humans as a species disappear.
