@@ -44,6 +44,8 @@
 | Geoffrey Hinton                            | 2043                                                     |                            |
 | Jürgen Schmidhuber                         | 2050                                                     | AIMultiple                 |
 | Yann LeCun                                 | Years away                                               |                            |
+| Tao Lin (Palisade Research, Nov 2026)      | 2027 (broadly superhuman AI by end of 2027)              | Wccftech, Nov 2026         |
+| Metaculus (Nov 2026 revision)              | 2030 (median 23 May 2030; was April 2033 in Sep)         | Metaculus Q5121, Nov 2026  |
 | AI Progress Metric                         | April 23, 2025 (>80% on FrontierMath)                    | AI Digest                  |
 
 ## Is it important ##
