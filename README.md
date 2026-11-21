@@ -14,6 +14,7 @@
 | Daniel Kokotajlo (Q3.5 update, Nov 2026)   | 2027 (Superhuman AI Researcher, May-Nov 2027)            | AIFP blog, Nov 2026        |
 | Eli Lifland (Q3.5 update, Nov 2026)        | 2027 (Superhuman AI Researcher)                          | AIFP blog, Nov 2026        |
 | Brendan Halstead (Q3.5 update, Nov 2026)   | 2027 (Superhuman AI Researcher)                          | AIFP blog, Nov 2026        |
+| Tao Lin (Palisade Research, Nov 2026)      | 2027 (broadly superhuman AI by end of 2027)              | Wccftech, Nov 2026         |
 | Gary Marcus                               | 2028                                                     |                            |
 | DeepMind Chief AGI Scientist               | 2028 (50% chance minimal AGI)                            | Reddit                     |
 | Demis Hassabis                             | 2028-2029                                                | Sherwood News              |
@@ -33,6 +34,7 @@
 | AI 2027 Report                             | 2030                                                     | AI Digest                  |
 | Sergey Brin                                | 2030                                                     | AIMultiple                 |
 | Kalshi Prediction Market                   | 2030 (45% OpenAI AGI)                                    | AIMultiple, Aug 2026       |
+| Metaculus (Nov 2026 revision)              | 2030 (median 23 May 2030; was April 2033 in Sep)         | Metaculus Q5121, Nov 2026  |
 | Sundar Pichai                              | 2031                                                     | AIMultiple                 |
 | Brendan Halstead (AI Futures Project)      | 2031 (median)                                            | ETC Journal, Oct 2026      |
 | Eli Lifland                                | 2032                                                     | FutureSearch, Aug 2026     |
@@ -44,8 +46,6 @@
 | Geoffrey Hinton                            | 2043                                                     |                            |
 | Jürgen Schmidhuber                         | 2050                                                     | AIMultiple                 |
 | Yann LeCun                                 | Years away                                               |                            |
-| Tao Lin (Palisade Research, Nov 2026)      | 2027 (broadly superhuman AI by end of 2027)              | Wccftech, Nov 2026         |
-| Metaculus (Nov 2026 revision)              | 2030 (median 23 May 2030; was April 2033 in Sep)         | Metaculus Q5121, Nov 2026  |
 | AI Progress Metric                         | April 23, 2025 (>80% on FrontierMath)                    | AI Digest                  |
 
 ## Is it important ##
